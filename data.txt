@@ -1,0 +1,3 @@
+Name: Adam
+Age: 22
+Favorite Color: Blue 
